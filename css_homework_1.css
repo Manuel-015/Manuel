@@ -1,0 +1,84 @@
+.body{
+    background-image: url("./tree.png"); background-size: cover; background-repeat: no-repeat;
+}
+
+.text-1{
+    color: antiquewhite;
+    font-size: 40px;
+    margin-top: 10%;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.dev{
+    color: orangered;
+    font-size: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.text-2{
+    color: antiquewhite;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    text-shadow: 2px 2px 4px black;
+}
+
+.graph{
+    color: antiquewhite;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.button{
+    background-color: orangered;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 105px;
+    font-size: 12px;
+    border: none;
+    margin-left: 30px;
+    padding: 9px;
+}
+
+.parent{
+    display: flex; flex-direction: row; align-items: center; justify-content: space-evenly;
+}
+
+.logo{
+    color: orangered;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 60px;
+}
+
+.nav{
+    display: flex; flex-direction: row;
+}
+
+li{
+    list-style-type: none;
+    margin-left: 110px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.search{
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    font-size: 12px;
+    border: none;
+    padding: 9px;
+    width: 105px;
+    margin-left: auto;
+}
