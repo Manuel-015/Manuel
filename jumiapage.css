@@ -1,0 +1,37 @@
+.body{
+    background-color: rgb(209, 207, 207);
+    margin: 0px;
+    padding: 0px;
+}
+
+.sec{
+    height: 420px;
+    width: 1950px;
+    background-color: rgb(248, 244, 244);
+    margin-bottom: 100px;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+
+.parent{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.eldest{
+    display: flex; flex-direction: row;
+}
+
+.img{
+    margin-left: 20px;
+}
+
+.text{
+    margin-top: 4px;
+    text-align: center;
+}
+
+.price{
+   text-align: center;
+   margin-right: 120px; 
+}
